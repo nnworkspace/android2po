@@ -1,3 +1,7 @@
+# Python specific
+venv/
+.venv/
+
 # Eclipse/PyDev
 /.project
 /.pydevproject
@@ -27,3 +31,5 @@
 # nosetests coverage
 /.coverage
 /cover/
+
+
